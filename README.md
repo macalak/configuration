@@ -1,1 +1,1 @@
-# configuration
+# Configuration properties for services
